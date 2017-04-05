@@ -7,31 +7,31 @@ This project is made for Senior Design Project (CS4911 course).
 
 # Features
 ### Main Page
-..* Search title, author, ISBN, course number, category for textbook
+* Search title, author, ISBN, course number, category for textbook
 ![1](screenshot/1.jpg)
 
 ### Register Modal
-..* Register to create user's info 
+* Register to create user's info 
 
 ![2](screenshot/2.jpg)
 
 ### Search Page
-..* Search for title, author, ISBN for textbook
-..* Select Georgia Tech course and id to search textbook
-..* Retrieve the textbook information from Google Book API and Georgia Tech course number
+* Search for title, author, ISBN for textbook
+* Select Georgia Tech course and id to search textbook
+* Retrieve the textbook information from Google Book API and Georgia Tech course number
 
 ![3](screenshot/3.jpg)
 
 
-..* Select buying and selling list
-..* Post your book to buy or sell
+* Select buying and selling list
+* Post your book to buy or sell
 
 ![4](screenshot/4.jpg)
 
 ### MyPage
-..* Retrieve user's selling books, and buying books. 
-..* Retrieve user's bookmarks 
-..* user can change user's information
+* Retrieve user's selling books, and buying books. 
+* Retrieve user's bookmarks 
+* user can change user's information
 ![5](screenshot/5.jpg)
 
 ## Documentation
