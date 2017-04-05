@@ -6,3 +6,10 @@ This project is made for Senior Design Project(CS4911-Georgia Tech).
 
 Web application in ASP.NET MVC5 (Razor).
 Used Bootstrap for UI. 
+
+# Features
+![1](screenshot/1.jpg)
+![1](screenshot/2.jpg)
+![1](screenshot/3.jpg)
+![1](screenshot/4.jpg)
+![1](screenshot/5.jpg)
